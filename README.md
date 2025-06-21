@@ -2,20 +2,20 @@
 
 ## Show the Vagrant initialization and login process
 
-![spin up server][./screenshots1.png]
+![spin up server][./screenshots/screenshots1.png]
 
 - Used vagrant up to start the VM and vagrant ssh to spin up the server
 
 ## Explore the Linux File System
 
-![creating folders][./screenshots2.png]
+![creating folders][./screenshots/screenshots2.png]
 
 - Created a directory vagrant using mkdir and used the command cd to move into the created directory.
 - Followed the process above to create projects and Devops folders.
 
 ## Manage File Permissions and Ownership
 
-![file permisson change][./screenshot3.png]
+![file permisson change][./screenshots/screenshot3.png]
 
 - Created a folder named file.
 - ls -l to check list of directories or files with details.
@@ -25,11 +25,11 @@
 
 ## Install and Configure a Package
 
-![installing a package][./screenshot4.png]
+![installing a package][./screenshots/screenshot4.png]
 
 ## Test Remote Connectivity
 
-![installing a package][./screenshot5.png]
+![installing a package][./screenshots/screenshot5.png]
 
 ### Statistics summary: 3 packets transmitted, 3 received, 0% packet loss, time 2040ms
 
